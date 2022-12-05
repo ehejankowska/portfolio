@@ -18,3 +18,6 @@ Currently, I would like to change my career path to the IT (software testing), w
 
 ## My projects
 ### [Football Scouts](https://scouts-test.futbolkolektyw.pl/pl)
+- [Test cases](https://docs.google.com/spreadsheets/d/11IVNkmWtkZI0PyWzWdwt7uY_yAIlxN2BdMNs6Z2ZEmI/edit?usp=share_link)
+- [Bug report 1](https://docs.google.com/spreadsheets/d/10gdl50oZpwceB-JW3zsPWWwesYxsOzGFfuiRL5KjkyE/edit?usp=sharing), [Bug report 2](https://docs.google.com/spreadsheets/d/1pdSv3SQzVC4Ip8_DdRkGXnXhB96RkGfMW_I2BYSRVtI/edit?usp=sharing)
+- [Test report](
