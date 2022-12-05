@@ -23,3 +23,5 @@ Currently, I would like to change my career path to the IT (software testing), w
 - [Test report](https://docs.google.com/spreadsheets/d/1ZMhS3ej9wpYugHz0QhR9lM0z6565D9iLvbUapqS_ORU/edit?usp=sharing)
 ### [Focusly app](https://play.google.com/store/apps/details?id=co.focusly&gl=US&pli=1)
 - [Exploratory testing - bug reports](https://docs.google.com/spreadsheets/d/1dOhZ_X7zLpg6ueB3T_XHr54N6hf-HEKc564OQSNNBYU/edit?usp=sharing)
+### [SwipeTo](https://swipeto.pl) 
+ - [Exploratory testing - bug reports](https://ehejankowska.atlassian.net/jira/software/projects/CHAL/boards/2/backlog)
