@@ -15,3 +15,6 @@ Currently, I would like to change my career path to the IT (software testing), w
 - DareIT_challenge - [qa manual testing](https://www.dareit.io/challenges/qa-manual-testing)
 - Udemy - [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania)
 - SQL - [SQL w 120 min](https://www.kursysql.pl/sql-w-120-minut), [Kurs SQL - programowanie](https://www.youtube.com/playlist?list=PL6aekdNhY7DA1wcv-k2MtZxasDeGlre57)
+
+## My projects
+### [Football Scouts](https://scouts-test.futbolkolektyw.pl/pl)
